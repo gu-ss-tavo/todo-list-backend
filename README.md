@@ -2,6 +2,12 @@
 
 ---
 
+**Preview**
+- **( Heroku )**
+https://app-todo-list-backend.herokuapp.com/tasks/
+
+---
+
 **Start in development mode**
 
 >`npm run dev`
